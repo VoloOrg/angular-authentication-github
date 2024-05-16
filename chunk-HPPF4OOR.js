@@ -1,0 +1,1 @@
+import{Da as i,Mb as a,Q as o,Ya as r}from"./chunk-TQEPK4JF.js";var l=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-public"]],standalone:!0,features:[r],decls:1,vars:0,template:function(n,p){n&1&&i(0,"router-outlet")},dependencies:[a],changeDetection:0});let t=e;return t})();export{l as PublicComponent};
